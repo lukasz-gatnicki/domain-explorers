@@ -1,5 +1,6 @@
-# domain-explorers
-#DomainExplorers
+# Domain Explorers
+
+[Oryginalne repo - Mariusz Gil - #DomainExplorers](https://github.com/mariuszgil/domain-explorers)
 
 
 ## Big Picture EventStorming
